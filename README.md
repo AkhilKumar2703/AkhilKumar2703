@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Akhil (@AkhilKumar2703)
-- 👀 App Development (Kotlin)
+- 👋 Hi, I’m Akhil Kumar (@AkhilKumar2703)
+- 👀 Andriod Development (Kotlin)
 - ✨ Problem Solving (JAVA)
-- 🌐[RESUME](https://drive.google.com/file/d/13n4Ib6dCtdMrnqOTFqiqFeN8WQqZYFw8/view?usp=drive_link)
+- 🌐[RESUME](https://drive.google.com/file/d/1GKUoLTNxQCJzK06lWvpxOA-1hjtnrz5Q/view?usp=sharing)
 - 📫 You can reach me on my mail (akhilkumar200485@gmail.com) and my Contact- +91 7876077753
 
 <!---
