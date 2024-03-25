@@ -32,6 +32,9 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
+
+  
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilkumar2703&show_icons=true&locale=en&layout=compact" alt="akhilkumar2703" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilkumar2703&show_icons=true&locale=en" alt="akhilkumar2703" /></p>
