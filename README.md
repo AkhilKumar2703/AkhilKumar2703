@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **akhilkumar200485@gmail.com**
 
-- 📄 Know about my experiences(RESUME) [https://drive.google.com/file/d/17RTJ_Kwp8agUQcZdUXQN_AABJGJW9yXs/view?usp=sharing](https://drive.google.com/file/d/17RTJ_Kwp8agUQcZdUXQN_AABJGJW9yXs/view?usp=sharing)
+- 📄 Know about my experiences - [RESUME](https://drive.google.com/file/d/1GKUoLTNxQCJzK06lWvpxOA-1hjtnrz5Q/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 
