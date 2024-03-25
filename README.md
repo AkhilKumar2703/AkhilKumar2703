@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm AKHIL KUMAR</h1>
 <h3 align="center">A passionate Andriod Developer from India</h3>
 
-- 🔭 I’m currently working on **Fitness App**
+
 
 - 🌱 I’m currently learning **Andriod , React Native**
 
