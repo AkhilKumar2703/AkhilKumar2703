@@ -21,9 +21,9 @@
 
 <p>
 <h3 align="left">Languages and Tools:</h3>
- <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <h4 align="left">Andriod</h4> </a>
+ <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <h4 align="left">Andriod</h4> </a>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><h4 align="left">Java</h4> </a> 
-<img align="right" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/><h4 align="left">Kotlin</h4> </a> 
+<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/><h4 align="left">Kotlin</h4> </a> 
  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><h4 align="left">Python</h4> </a>
  
  <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <h4 align="left">Firebase</h4></a> 
