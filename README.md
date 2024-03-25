@@ -22,7 +22,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p alignItem="center" display="flex">
+<p >
  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <h4 align="left">Andriod</h4> </a>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><h4 align="center">Java</h4> </a> 
 <img align="right" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/><h4 align="right">Kotlin</h4> </a> 
