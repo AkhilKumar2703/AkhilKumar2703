@@ -22,21 +22,21 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p >
- <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <h4 align="left">Andriod</h4> </a>
+<p align-item="center" style=" padding: 34px; display: flex; /* justify-content: space-between; */ align-item=center; justify-content: space-between; ">
+ <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <h4 align="center">Andriod</h4> </a>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><h4 align="center">Java</h4> </a> 
-<img align="right" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/><h4 align="right">Kotlin</h4> </a> 
- <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><h4 align="left">Python</h4> </a>
+<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/><h4 align="center">Kotlin</h4> </a> 
+ <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><h4 align="center">Python</h4> </a>
  
  <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <h4 align="center">Firebase</h4></a> 
- <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <h4 align="right">SQL</h4></a>
-<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><h4 align="left">Git</h4> </a> 
+ <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <h4 align="center">SQL</h4></a>
+<img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><h4 align="center">Git</h4> </a> 
 
  <img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/><h4 align="center">Figma</h4> </a>
  
 
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/><h4 align="right">Matlab</h4> </a>
-<img align="left" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> <h4 align="left">Arduino</h4></a> 
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/><h4 align="center">Matlab</h4> </a>
+<img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> <h4 align="center">Arduino</h4></a> 
 </p>
   
 
