@@ -21,7 +21,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center" d-flex>
+<p alignItem="center" display="flex">
  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <h4 align="left">Andriod</h4> </a>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><h4 align="left">Java</h4> </a> 
 <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/><h4 align="left">Kotlin</h4> </a> 
