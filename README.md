@@ -19,7 +19,7 @@
 <a href="https://www.leetcode.com/akhil01kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akhil01kumar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/akhilkuma96sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akhilkuma96sv" height="30" width="40" /></a>
 
-<p align="left">
+<p align="left" d-flex>
 <h3 align="left">Languages and Tools:</h3>
  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <h4 align="left">Andriod</h4> </a>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><h4 align="left">Java</h4> </a> 
