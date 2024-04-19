@@ -4,9 +4,9 @@
 
 
 
-- 🌱 I’m currently learning **Andriod , React Native**
+- 🌱 I’m currently working **Andriod , React Native**
 
-- 💬 Ask me about **JAVA(DSA), Andriod Development**
+- 💬 Ask me about **Software Development - Andriod**
 
 - 📫 How to reach me **akhilkumar200485@gmail.com**
 
