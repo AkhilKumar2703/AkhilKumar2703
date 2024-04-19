@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently workingo on **Andriod - React Native**
+- 🌱 I’m currently working on **Andriod - React Native**
 
 - 💬 Ask me about **Software Development - Andriod**
 
