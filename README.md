@@ -1,6 +1,6 @@
 <img  src="https://th.bing.com/th/id/OIG3.wDVmoNPXYOh6xeZjRpcn?w=1024&h=1024&rs=1&pid=ImgDetMain" alt="android" width="1000" height="500"/>
 <h1 align="center">Hi👋, I'm AKHIL KUMAR</h1>
-<h3 align="center">A passionate Andriod Developer from India</h3>
+<h3 align="center">A passionate Andriod Developer from India 🇮🇳</h3>
 
 
 
@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences - [RESUME](https://drive.google.com/file/d/17RTJ_Kwp8agUQcZdUXQN_AABJGJW9yXs/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 
 <a href="https://twitter.com/_akhilkanwar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_akhilkanwar_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akhil-kumar-a25519256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhil-kumar-a25519256" height="30" width="40" /></a>
